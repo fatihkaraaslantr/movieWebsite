@@ -1,6 +1,6 @@
 <h1>MOVİE WEB SİTE</h1>
 
-Kullanıcı dostu arayüz, enerjik ve modern bir tasarımla, ziyaretçilerin keyifle kullanabiliceği bir movie web site oluşturdum
+Kullanıcı dostu arayüz, enerjik ve modern bir tasarımla, ziyaretçilerin keyifle kullanabiliceği bir movie web site arayüzü tasarladım
 
 <h2>KULLANILAN TEKNOLOJİLER</h2>
 
