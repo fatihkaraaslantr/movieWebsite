@@ -6,3 +6,7 @@ Kullanıcı dostu arayüz, enerjik ve modern bir tasarımla, ziyaretçilerin key
 
 *HTML
 *CSS
+
+<h2>EKRAN GÖRÜNTÜSÜ</h2>
+
+![](./img/project.gif)
