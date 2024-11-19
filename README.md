@@ -23,3 +23,5 @@ Basit ve Şık Tasarım: Kullanıcı dostu, temiz bir arayüz ile estetik bir g�
 Film Teması: Sinematik bir atmosferi yansıtan modern renk paleti ve düzen.
 
 <h1>Ekran Görüntüsü</h1>
+
+![](./img/project.gif)
