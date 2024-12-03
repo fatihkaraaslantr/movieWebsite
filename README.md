@@ -1,4 +1,4 @@
-<h1>🚀Movie Web Sitesi Arayüzü</h1>
+<h1>🚀Movie Web Site Arayüzü</h1>
 
 Bu proje, bir film web sitesi için tasarlanmış modern ve kullanıcı dostu bir arayüz örneğidir. Eğitim ve pratik amaçlı olarak geliştirilen bu çalışma, web tasarımı becerilerimi geliştirme sürecinde oluşturduğum bir konsept projedir.
 
